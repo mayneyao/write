@@ -1,0 +1,10 @@
+{
+  "name": "write",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "repository": "git@github.com:mayneyao/write.git",
+  "author": "mayne <dreama9ain@gmail.com>",
+  "license": "MIT"
+}
